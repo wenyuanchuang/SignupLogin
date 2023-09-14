@@ -1,6 +1,6 @@
 # SognupLogin
 
-A java project based on JFrame, with a back-end connection to the SQL database
+A Java project based on JFrame, with a back-end connection to the SQL database
 The process is as follows:
 1. Register first, all fields cannot be empty.
 2. After press the submit button, the login page will pop up.
